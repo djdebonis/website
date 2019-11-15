@@ -1,15 +1,10 @@
 ---
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: false
 comments: false
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+David J DeBonis is a DaVinci-type whose passions and ambitions stretch across many diverse fields. David is currently an undergraduate student at The University of Colorado--Denver, working towards a degree in Computer Science. David is currently employeed as a Professional Writing Consultant at the CU Denver Writing Center. He researches second language acquisition (SLA) for the CU Denver Department of Modern Languages, focusing on spanish phonetics in first-year Spanish students. David spends a lot of time writing, coding, and performing data analysis. 
 
 ### my history
 
