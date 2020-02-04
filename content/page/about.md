@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD
 title: The Denver DeBonis
 subtitle:
 comments: false
