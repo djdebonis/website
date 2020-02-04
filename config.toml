@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://djdebonis.github.io/public/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Beautiful Hugo"

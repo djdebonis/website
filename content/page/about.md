@@ -1,15 +1,9 @@
 ---
-title: About me
-subtitle: Hello
+title: The Denver DeBonis
+subtitle:
 comments: false
 ---
-
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+The Denver DeBonis is a Denver-based blog/online newspaper.
 
 ### my history
 
